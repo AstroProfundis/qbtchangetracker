@@ -1,4 +1,4 @@
-module github.com/rumanzo/qbtchangetracker
+module github.com/AstroProfundis/qbtchangetracker
 
 go 1.14
 

@@ -2,7 +2,7 @@ package tracker
 
 import (
 	"fmt"
-	libtorrent "github.com/rumanzo/qbtchangetracker/torrent"
+	libtorrent "github.com/AstroProfundis/qbtchangetracker/torrent"
 	"runtime/debug"
 	"sync"
 )
